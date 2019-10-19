@@ -1,1 +1,1 @@
-# Make-files-for-C-and-C-
+# Make files for C and C++
